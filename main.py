@@ -8,3 +8,4 @@ for i in range(lenght):
     password += r.choice(chars)
 
 print(f"Tu contraseña ha sido generada: {password}")
+print ("El programa ha finalizado")
